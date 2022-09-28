@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/capaDK"
+        android:layout_width="123dp"
+        android:layout_height="113dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/todo"
+        android:src="@drawable/donkey_kong2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.571" />
+
+    <TextView
+        android:id="@+id/descricaoDK"
+        android:layout_width="209dp"
+        android:layout_height="69dp"
+        android:layout_marginStart="12dp"
+        android:text="@string/um_jogo_eletr_nico_de_plataforma_2d_de_rolagem_lateral_no_qual_o_jogador_controla_os_protagonistas_mario_ou_luigi"
+        android:textStyle="bold"
+        app:layout_constraintStart_toEndOf="@+id/capaDK"
+        app:layout_constraintTop_toBottomOf="@+id/nomeDK"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/nomeDK"
+        android:layout_width="224dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/donkey_kong_country_2"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/capaDK"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

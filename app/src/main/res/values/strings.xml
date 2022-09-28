@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AssessmentFinalFundamentos</string>
+    <string name="_100_r">100 R$</string>
+    <string name="comprar">Comprar</string>
+    <string name="donkey_kong_country_2">Donkey Kong Country 2</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="jogos">Jogos</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="Início">Início</string>
+    <string name="Jogos">Jogos</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="todo1">TODO</string>
+    <string name="biblioteca_de_jogos_do_snes">Biblioteca de jogos do SNES</string>
+    <string name="super_mario_world">Super Mario World</string>
+    <string name="todo4">TODO</string>
+    <string name="imagem_street_fighter_ii">Imagem Street Fighter II</string>
+    <string name="imagem_jogo_stone_protectors">imagem jogo stone protectors</string>
+    <string name="stone_proctetors">Stone Proctetors</string>
+    <string name="street_fighter_ii">Street Fighter II</string>
+    <string name="imagem_jogo_pateta">imagem jogo pateta</string>
+    <string name="goof_troop">Goof Troop</string>
+    <string name="diddy_e_sua_nova_linda_e_rebelde_namorada_dixie_precisam_resgata_lo_das_garras_do_famigerado_kaptain_k_rool">Diddy e sua nova, linda e rebelde namorada Dixie precisam resgata-lo das garras do famigerado Kaptain K. Rool</string>
+    <string name="um_jogo_eletr_nico_de_plataforma_2d_de_rolagem_lateral_no_qual_o_jogador_controla_os_protagonistas_mario_ou_luigi">É um jogo eletrônico de plataforma 2D de rolagem lateral, no qual o jogador controla os protagonistas Mario ou Luigi</string>
+    <string name="street_fighter_ii_difere_do_seu_antecessor_por_oferecer_ao_jogador_uma_selec_o_m_ltipla_de_personagens_jog_veis">Street Fighter II difere do seu antecessor por oferecer ao jogador uma selecção múltipla de personagens jogáveis</string>
+    <string name="o_jogo_baseado_na_s_rie_de_mesmo_nome_antes_de_come_ar_a_jogar_o_jogador_pode_escolher_entre_ser_max_ou_pateta">O jogo é baseado na série de mesmo nome. Antes de começar a jogar o jogador pode escolher entre ser Max ou Pateta</string>
+    <string name="stone_protectors_um_jogo_de_beat_em_up_briga_de_rua_desenvolvido_pela_eurocom">Stone Protectors é um jogo de Beat \'em up / Briga de Rua desenvolvido pela Eurocom</string>
+    <string name="jogos_de_snes">Jogos de SNES</string>
+    <string name="trabalho_para_obten_o_de_nota_bimestral_da_mat_ria_fundamentos_do_desenvolvimento_android_infnet">Trabalho para obtenção de nota bimestral da matéria Fundamentos do Desenvolvimento Android - INFNET</string>
+    <string name="alexander_morais_de_oliveira">Alexander Morais de Oliveira</string>
+    <string name="botao_compartilhar">botao compartilhar</string>
+</resources>
